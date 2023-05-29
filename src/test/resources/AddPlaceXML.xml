@@ -1,0 +1,13 @@
+<PlaceAddRequest>
+    <location>
+        <lat>-33.8669710</lat>
+        <lng>151.1958750</lng>
+    </location>
+    <accuracy>50</accuracy>
+    <name>Google Shoes!</name>
+    <phone_number>(03) 9480 9480</phone_number>
+    <address>12 Nugent Street, Preston, VIC, 3072, Australia</address>
+    <type>shoe_store</type>
+    <website>http://www.google.com.au/</website>
+    <language>en-AU</language>
+</PlaceAddRequest>
